@@ -1,7 +1,23 @@
 BLOG：https://blog.csdn.net/zhouruifu2015/  
+
 Python专栏：https://blog.csdn.net/zhouruifu2015/category_5742543  
 网络信息安全专栏：https://blog.csdn.net/zhouruifu2015/category_5828567  
 FPGA专栏：https://blog.csdn.net/zhouruifu2015/category_5690253  
+数据库专栏：https://blog.csdn.net/zhouruifu2015/category_6915832  
+MySQL专栏：https://blog.csdn.net/zhouruifu2015/category_9031894  
+Redis专栏：https://blog.csdn.net/zhouruifu2015/category_6295340  
+MongoDB专栏：https://blog.csdn.net/zhouruifu2015/category_6936547  
+FPGA专栏：https://blog.csdn.net/zhouruifu2015/category_5690253  
+Go专栏：https://blog.csdn.net/zhouruifu2015/category_6915830  
+企业网络安全运营能力建设思路：https://blog.csdn.net/zhouruifu2015/category_5718349  
+大前端专栏：https://blog.csdn.net/zhouruifu2015/category_5734911  
+Node.js专栏：https://blog.csdn.net/zhouruifu2015/category_6080879  
+C专栏：https://blog.csdn.net/zhouruifu2015/category_5695139  
+C++专栏：https://blog.csdn.net/zhouruifu2015/category_5659847  
+云原生&微服务专栏：https://blog.csdn.net/zhouruifu2015/category_5704941  
+数据结构&算法：https://blog.csdn.net/zhouruifu2015/category_5695563  
+设计模式：https://blog.csdn.net/zhouruifu2015/category_5720539  
+
 Gitee：https://gitee.com/SteveRocket/  
 微信公众号：https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q  
 <img src="wechat.png" style="width:30rem"/>
@@ -57,7 +73,7 @@ https://mp.weixin.qq.com/s/bsCLCRZBNiT25wOmU1-Kwg
 Python基础之最新的73个内置函数（6）
 https://mp.weixin.qq.com/s/jPqx8q2rTG8MtpfZuCVJGw
 Python基础之最新的73个内置函数（7）
-
+https://mp.weixin.qq.com/s/heBcQKNO7Ny1CCerZav__A
 
 ## Django系列
 
@@ -108,18 +124,49 @@ https://blog.csdn.net/zhouruifu2015/article/details/130023839
 https://blog.csdn.net/zhouruifu2015/article/details/130031818
 
 
+#### 《Django开发总结》系列
+
+1、Django开发总结：Django MVT与MVC设计模式，请求过程与代码示例（附源码）
+https://blog.csdn.net/zhouruifu2015/article/details/129648966
+
+2、Django开发总结：官方推荐编码规范
+https://blog.csdn.net/zhouruifu2015/article/details/129647979
+
+3、Django开发总结：Model模型的介绍、字段属性、字段选项（参数）与设计详解
+https://blog.csdn.net/zhouruifu2015/article/details/130186310
+
+10、Django开发总结：Django缓存Cache应用场景、设置以及高级使用技巧
+https://blog.csdn.net/zhouruifu2015/article/details/129784636
+
+12、Django开发总结：URL重定向的HttpResponseDirect, redirect和reverse用法详解
+https://blog.csdn.net/zhouruifu2015/article/details/130184903
+
+13、Django开发总结：视图函数Request对象详解及获取用户请求的详细信息（附源码）
+https://blog.csdn.net/zhouruifu2015/article/details/130187600
+
+
+19、Django开发总结：自带的常用装饰器应用场景及正确使用方法总结
+https://blog.csdn.net/zhouruifu2015/article/details/129786331
+
+25、Django开发总结：settings.py设置选项详解
+https://blog.csdn.net/zhouruifu2015/article/details/129646086
+
+
+28、Django开发总结：shortcuts快捷函数(shortcut function)模块详解
+https://blog.csdn.net/zhouruifu2015/article/details/130188297
+
+42、Django开发总结：总结收纳40+Django日常开发常用第三方库
+https://blog.csdn.net/zhouruifu2015/article/details/130118992
 
 #### 《Django进阶》系列
+
+一、Django进阶：.gitignore文件建议忽略文件清单及是否需要忽略数据库迁移文件
+https://blog.csdn.net/zhouruifu2015/article/details/129645656
+
+
 七、Django进阶：第三方库Django-extensions的开发使用技巧详解（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130023822
 
-
-
-三十二、Django进阶：内置manage.py shell开发常用命令用法详解  
-https://blog.csdn.net/zhouruifu2015/article/details/129761808
-
-三十三、Django进阶：自定义manage.py shell管理命令以及案例（附源码）  
-https://blog.csdn.net/zhouruifu2015/article/details/129761804
 
 
 二十六、Django进阶：Django权限-第三方库Django-guardian使用详解  
@@ -132,6 +179,43 @@ https://blog.csdn.net/zhouruifu2015/article/details/130118697
 
 二十八、Django进阶：自定义中间件与中间件案例实战（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130117115
+
+
+
+三十二、Django进阶：内置manage.py shell开发常用命令用法详解  
+https://blog.csdn.net/zhouruifu2015/article/details/129761808
+
+三十三、Django进阶：自定义manage.py shell管理命令以及案例（附源码）  
+https://blog.csdn.net/zhouruifu2015/article/details/129761804
+
+三十九、Django单元测试：unittest、测试用例、断言方法总结
+https://blog.csdn.net/zhouruifu2015/article/details/129640243
+
+四十、Django单元测试：PGSQL数据库配置、常用测试工具、DB冲突方案和代码覆盖率实战
+https://blog.csdn.net/zhouruifu2015/article/details/129640284
+
+
+
+
+#### Django第三方库（模块）
+
+Django第三方库：使用Cookiecutter-django生成项目，及结构和优点详解
+https://blog.csdn.net/zhouruifu2015/article/details/130467587
+
+
+
+
+
+
+
+#### Django内置库（模块）
+
+
+
+
+
+
+
 
 
 
@@ -154,10 +238,10 @@ https://blog.csdn.net/zhouruifu2015/article/details/129626005
 四、Prometheus：使用Exporter监控Windows和Linux以及配置加密认证  
 https://blog.csdn.net/zhouruifu2015/article/details/129626349
 
-六、	Prometheus：使用Grafana拖拽式创建可视化Dashboard监控平台  
+六、 Prometheus：使用Grafana拖拽式创建可视化Dashboard监控平台  
 https://blog.csdn.net/zhouruifu2015/article/details/130081266
 
-七、	Prometheus：结合Grafana实现MySQL监控平台  
+七、 Prometheus：结合Grafana实现MySQL监控平台  
 https://blog.csdn.net/zhouruifu2015/article/details/130081302
 
 ## zabbix
