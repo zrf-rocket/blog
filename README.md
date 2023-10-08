@@ -1,4 +1,90 @@
-BLOG：https://blog.csdn.net/zhouruifu2015/  
+# ABOUT
+
+**【关于我们】**
+
+* [Articulate v1.0](https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q)
+* [Articulate v2.0 待定.......]()
+
+[![](https://img.shields.io/badge/GitHub-zrf--rocket-blue?logo=gitpod)](https://github.com/zrf-rocket)
+[![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
+![CTO Plus](https://img.shields.io/badge/微信公众号：CTO%20Plus-8A2BE2) 🥰
+
+<img src="./static/wechat.png" style="width:500px">
+
+
+**【代码工程系列】**
+
+* [Python和Go的设计模式](https://github.com/zrf-rocket/DesignPattern)
+    * GitHub：https://github.com/zrf-rocket/DesignPattern
+    * Gitee：https://gitee.com/SteveRocket/design_pattern
+
+* [Python、Go的编码技巧cookbook](https://github.com/zrf-rocket/CookBook)
+    * GitHub：https://github.com/zrf-rocket/CookBook
+    * Gitee：https://gitee.com/SteveRocket/cook-book
+
+* [Go代码示例](https://github.com/zrf-rocket/PracticeGo)
+    * GitHub：https://github.com/zrf-rocket/PracticeGo
+    * Gitee：https://gitee.com/SteveRocket/practice_go
+
+* [Python代码示例](https://github.com/zrf-rocket/PracticePython)
+    * GitHub：https://github.com/zrf-rocket/PracticePython
+    * Gitee：https://gitee.com/SteveRocket/practice_python
+
+* [Python Web框架的示例代码](https://github.com/zrf-rocket/PythonFramework)
+    * GitHub：https://github.com/zrf-rocket/PythonFramework
+    * Gitee：https://gitee.com/SteveRocket/python_framework
+
+* [Rust代码示例](https://github.com/zrf-rocket/PracticeRust)
+    * GitHub：https://github.com/zrf-rocket/PracticeRust
+    * Gitee：https://gitee.com/SteveRocket/practice_rust
+
+* [Vue代码示例](https://github.com/zrf-rocket/PracticeVue)
+    * GitHub：https://github.com/zrf-rocket/PracticeVue
+    * Gitee：https://gitee.com/SteveRocket/practice_vue
+
+* [前端代码示例](https://github.com/zrf-rocket/PracticeFronted)
+    * GitHub：https://github.com/zrf-rocket/PracticeFronted
+    * Gitee：https://gitee.com/SteveRocket/practice_fronted
+
+* [Python自动化测试框架](https://github.com/zrf-rocket/PythonTestAutomationFramework)
+    * GitHub：https://github.com/zrf-rocket/PythonTestAutomationFramework
+    * Gitee：https://gitee.com/SteveRocket/python_test_automation_framework
+
+* [Python和Go的算法代码示例](https://github.com/zrf-rocket/Algorithms)
+    * GitHub：https://github.com/zrf-rocket/Algorithms
+    * Gitee：https://gitee.com/SteveRocket/Algorithms
+
+* [Python和Go的数据结构代码示例](https://github.com/zrf-rocket/DataStructure)
+    * GitHub：https://github.com/zrf-rocket/DataStructure
+    * Gitee：https://gitee.com/SteveRocket/data_structure
+
+* [编码规范](https://github.com/zrf-rocket/DevGuide)
+    * GitHub：https://github.com/zrf-rocket/DevGuide
+    * Gitee：https://gitee.com/SteveRocket/develop_guide
+
+* [编码安全规范](https://github.com/zrf-rocket/SecGuide)
+    * GitHub：https://github.com/zrf-rocket/SecGuide
+    * Gitee：https://gitee.com/SteveRocket/security_guide
+
+**【产品系列】**
+
+* [主机监控系统-日志收集与报警管理系统（SIEM）](https://github.com/zrf-rocket/SIEM)
+    * GitHub：https://github.com/zrf-rocket/SIEM
+    * Gitee：https://gitee.com/SteveRocket/siem
+
+* [安全运营中心（SOC）-终端侦测与响应系统（EDR）](https://github.com/zrf-rocket/EDR_SOC)
+    * GitHub：https://github.com/zrf-rocket/EDR_SOC
+    * Gitee：https://gitee.com/SteveRocket/edr_soc
+
+* [DevSecOps-SDLC](https://github.com/zrf-rocket/DevSecOps-SDLC)
+    * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
+    * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
+
+* [AI图像识别-智能缺陷检测系统]()
+    * [基于AI图像识别的工业缺陷检测应用系统（GPU&FPGA）](https://mp.weixin.qq.com/s/04qefQFg-Pg1Gcqq1vBLQQ)
+    * [基于AI图像识别的智能缺陷检测系统，在钢铁行业的应用-技术方案](https://mp.weixin.qq.com/s/dSHbnuOwQZzE4CvPr1JYjg)
+
+BLOG：https://blog.csdn.net/zhouruifu2015/
 
 Python专栏：https://blog.csdn.net/zhouruifu2015/category_5742543  
 网络信息安全专栏：https://blog.csdn.net/zhouruifu2015/category_5828567  
@@ -6,8 +92,8 @@ FPGA专栏：https://blog.csdn.net/zhouruifu2015/category_5690253
 数据库专栏：https://blog.csdn.net/zhouruifu2015/category_6915832  
 MySQL专栏：https://blog.csdn.net/zhouruifu2015/category_9031894  
 Redis专栏：https://blog.csdn.net/zhouruifu2015/category_6295340  
-MongoDB专栏：https://blog.csdn.net/zhouruifu2015/category_6936547  
-FPGA专栏：https://blog.csdn.net/zhouruifu2015/category_5690253  
+MongoDB专栏：https://blog.csdn.net/zhouruifu2015/category_6936547
+
 Go专栏：https://blog.csdn.net/zhouruifu2015/category_6915830  
 企业网络安全运营能力建设思路：https://blog.csdn.net/zhouruifu2015/category_5718349  
 大前端专栏：https://blog.csdn.net/zhouruifu2015/category_5734911  
@@ -16,13 +102,14 @@ C专栏：https://blog.csdn.net/zhouruifu2015/category_5695139
 C++专栏：https://blog.csdn.net/zhouruifu2015/category_5659847  
 云原生&微服务专栏：https://blog.csdn.net/zhouruifu2015/category_5704941  
 数据结构&算法：https://blog.csdn.net/zhouruifu2015/category_5695563  
-设计模式：https://blog.csdn.net/zhouruifu2015/category_5720539  
+设计模式：https://blog.csdn.net/zhouruifu2015/category_5720539
 
 Gitee：https://gitee.com/SteveRocket/  
 微信公众号：https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q  
-<img src="wechat.png" style="width:30rem"/>
+<img src="./static/wechat.png" style="width:30rem"/>
 
 # Git系列
+
 1、Git使用不完全指南：GitHub的使用详解  
 https://blog.csdn.net/zhouruifu2015/article/details/130046352
 
@@ -38,19 +125,18 @@ https://blog.csdn.net/zhouruifu2015/article/details/130073017
 5、Git使用不完全指南：Git新建分支与合并及分支管理  
 https://blog.csdn.net/zhouruifu2015/article/details/130096378
 
+6、Git使用不完全指南：Git客户端和服务器端配置
 
-6、Git使用不完全指南：Git客户端和服务器端配置  
+7、Git使用不完全指南：Git Hooks pre-commit的使用技巧总结
 
-7、Git使用不完全指南：Git Hooks pre-commit的使用技巧总结  
+8、Git使用不完全指南：Git与Subversion
 
-8、Git使用不完全指南：Git与Subversion  
+9、Git使用不完全指南：企业代码提交规范
 
-9、Git使用不完全指南：企业代码提交规范  
-
-10、Git使用不完全指南：Git内部原理，底层命令和高层命令  
-
+10、Git使用不完全指南：Git内部原理，底层命令和高层命令
 
 # Python系列
+
 一、JMESPath的使用详细介绍  
 https://blog.csdn.net/zhouruifu2015/article/details/130056912
 
@@ -58,8 +144,11 @@ https://blog.csdn.net/zhouruifu2015/article/details/130056912
 https://blog.csdn.net/zhouruifu2015/article/details/130056895
 
 ## 关键字
+
 看这一篇就够了 Python的35个关键字的含义、作用、特性以及使用方式详解 https://mp.weixin.qq.com/s/YVadxV1tkdVyytPhcnyZQA
-## 内置函数 
+
+## 内置函数
+
 Python基础之最新的73个内置函数（1）
 https://mp.weixin.qq.com/s/F9_G5KjTubhBNtnU_1hr1Q
 Python基础之最新的73个内置函数（2）
@@ -78,6 +167,7 @@ https://mp.weixin.qq.com/s/heBcQKNO7Ny1CCerZav__A
 ## Django系列
 
 #### 《DRF实战总结》系列
+
 1、DRF实战总结：DRF特点、序列化与RESTful API规范  
 https://blog.csdn.net/zhouruifu2015/article/details/129761606
 
@@ -123,7 +213,6 @@ https://blog.csdn.net/zhouruifu2015/article/details/130023839
 15、DRF实战总结：2023 DRF框架序列化性能优化和cProfile性能基准测试（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130031818
 
-
 #### 《Django开发总结》系列
 
 1、Django开发总结：Django MVT与MVC设计模式，请求过程与代码示例（附源码）
@@ -144,13 +233,11 @@ https://blog.csdn.net/zhouruifu2015/article/details/130184903
 13、Django开发总结：视图函数Request对象详解及获取用户请求的详细信息（附源码）
 https://blog.csdn.net/zhouruifu2015/article/details/130187600
 
-
 19、Django开发总结：自带的常用装饰器应用场景及正确使用方法总结
 https://blog.csdn.net/zhouruifu2015/article/details/129786331
 
 25、Django开发总结：settings.py设置选项详解
 https://blog.csdn.net/zhouruifu2015/article/details/129646086
-
 
 28、Django开发总结：shortcuts快捷函数(shortcut function)模块详解
 https://blog.csdn.net/zhouruifu2015/article/details/130188297
@@ -163,24 +250,17 @@ https://blog.csdn.net/zhouruifu2015/article/details/130118992
 一、Django进阶：.gitignore文件建议忽略文件清单及是否需要忽略数据库迁移文件
 https://blog.csdn.net/zhouruifu2015/article/details/129645656
 
-
 七、Django进阶：第三方库Django-extensions的开发使用技巧详解（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130023822
-
-
 
 二十六、Django进阶：Django权限-第三方库Django-guardian使用详解  
 https://blog.csdn.net/zhouruifu2015/article/details/130117081
 
-
 二十七、Django进阶：Django内置中间件、中间件工作原理以及应用场景（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130118697
 
-
 二十八、Django进阶：自定义中间件与中间件案例实战（附源码）  
 https://blog.csdn.net/zhouruifu2015/article/details/130117115
-
-
 
 三十二、Django进阶：内置manage.py shell开发常用命令用法详解  
 https://blog.csdn.net/zhouruifu2015/article/details/129761808
@@ -194,38 +274,22 @@ https://blog.csdn.net/zhouruifu2015/article/details/129640243
 四十、Django单元测试：PGSQL数据库配置、常用测试工具、DB冲突方案和代码覆盖率实战
 https://blog.csdn.net/zhouruifu2015/article/details/129640284
 
-
-
-
 #### Django第三方库（模块）
 
 Django第三方库：使用Cookiecutter-django生成项目，及结构和优点详解
 https://blog.csdn.net/zhouruifu2015/article/details/130467587
 
-
-
-
-
-
-
 #### Django内置库（模块）
 
-
-
-
-
-
-
-
-
-
 # Go系列
+
 用一篇文章入门Go开发
 关键字
 
-
 # 《云原生》系列
-## Prometheus 
+
+## Prometheus
+
 一、Prometheus：配置、导航栏、Template和启动参数详解  
 https://blog.csdn.net/zhouruifu2015/article/details/129558351
 
@@ -245,15 +309,15 @@ https://blog.csdn.net/zhouruifu2015/article/details/130081266
 https://blog.csdn.net/zhouruifu2015/article/details/130081302
 
 ## zabbix
+
 Zabbix之2023 Zabbix6.4最新高级特性、优缺点及其实现原理总结
 https://mp.weixin.qq.com/s/rPjlcZtv1pSXwyH62QGHjQ
 
 Zabbix API开发实战，创建报警媒介和代码示例（付源码）
 https://mp.weixin.qq.com/s/pSePfSmjMrTb1uTEBL0RBQ
 
-
-
 ## Docker
+
 云主机-生产环境下离线安装Docker部署应用
 https://blog.csdn.net/zhouruifu2015/article/details/77850885
 
@@ -266,9 +330,7 @@ https://blog.csdn.net/zhouruifu2015/article/details/129630891
 三、Docker：Compose安装、使用、文件结构、配置参数与命令详解
 https://blog.csdn.net/zhouruifu2015/article/details/129631372
 
-
 ## kubernetes
-
 
 四、Kubernetes（K8S）：kubectl概述、安装、设置
 https://blog.csdn.net/zhouruifu2015/article/details/130057847
@@ -279,26 +341,28 @@ https://blog.csdn.net/zhouruifu2015/article/details/130056507
 云原生开源项目-Go进阶：总结19款Go语言日常开发中使用到的热门开源项目
 https://blog.csdn.net/zhouruifu2015/article/details/130732734
 
-
-
-
 # C系列
+
 用一篇文章入门C开发
-关键字 工作经验总结之C语言关键字的作用、特性和使用方式 https://blog.csdn.net/zhouruifu2015/article/details/130670935
+[关键字 工作经验总结之C语言关键字的作用、特性和使用方式](https://blog.csdn.net/zhouruifu2015/article/details/130670935)
 
 # C++系列
+
 用一篇文章入门C++开发
-关键字 工作经验总结之C++语言关键字的作用、特性和使用方式 https://blog.csdn.net/zhouruifu2015/article/details/130670955
+[关键字 工作经验总结之C++语言关键字的作用、特性和使用方式](https://blog.csdn.net/zhouruifu2015/article/details/130670955)
 
 # FPGA系列
+
 用一篇文章入门FPGA开发
-关键字 工作总结之全网最全的103个Verilog关键字总结（上） https://mp.weixin.qq.com/s/RESNqNsJcP3Bs5Q-6WGdjg
-工作总结之全网最全的103个Verilog关键字总结（下）https://mp.weixin.qq.com/s/OAfcSavGqEkfEmh6cF_Wbg
+[关键字 工作总结之全网最全的103个Verilog关键字总结（上）](https://mp.weixin.qq.com/s/RESNqNsJcP3Bs5Q-6WGdjg)
+[工作总结之全网最全的103个Verilog关键字总结（下）](https://mp.weixin.qq.com/s/OAfcSavGqEkfEmh6cF_Wbg)
 
 # 大前端系列
+
 ## Vue系列
+
 用一篇文章入门Vue开发
-	关键字
+关键字
 
 ## Node.js & JavaScript系列
 
@@ -320,21 +384,29 @@ https://blog.csdn.net/zhouruifu2015/article/details/130912299
 弄清楚Node.js的功能特性、运行时、组成和发展趋势分析以及与JavaScript的区别
 https://blog.csdn.net/zhouruifu2015/article/details/130912285
 
-
 # typescript系列
+
 用一篇文章入门typescript开发
 关键字
 
 # React系列
+
 用一篇文章入门React开发
 关键字
 
 # 技术路线系列
+
 ## Python开发者路线
+
 ## Go开发者路线
+
 ## C开发者路线
+
 ## C++开发者路线
+
 ## FPGA开发者路线
+
 ## 前端开发者路线
+
 ## 数据库开发路线
 
